@@ -28,7 +28,7 @@ This repository is licensed with [None](http://unlicense.org/).
 
 
 ## Video  
-[05-third-party-apis-homework-demo.gif](https://github.com/mattestinb/disco-5-crisco/blob/main/Assets/05-third-party-apis-homework-demo.gif)
+![05-third-party-apis-homework-demo.gif](https://github.com/mattestinb/disco-5-crisco/blob/main/Assets/05-third-party-apis-homework-demo.gif)
 
 
 ## Links
